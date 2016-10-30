@@ -7,4 +7,4 @@
 
 dsdsdsdsdssdsdsdsds
 
-12.29  nuova iistruzione AAAAAA
+12.29  nuova istruzione AAAAAA da repository remote
