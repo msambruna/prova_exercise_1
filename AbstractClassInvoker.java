@@ -13,7 +13,7 @@ public class AbstractClassInvoker {
       	
       // fdfdfdfd
       // fddfdfdfdf
-      System.out.println("Incremento valore di: " + value);
+     
       System.out.println("Il risultato e': " + impl.increment(value));
    }
 }
