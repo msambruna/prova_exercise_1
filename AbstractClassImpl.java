@@ -10,4 +10,8 @@ public class AbstractClassImpl extends AbstractClass {
 	public void metodoPubblico(){
 		;
 	}
+	
+	public void metodoPubblico2(){
+		;
+	}
 }
