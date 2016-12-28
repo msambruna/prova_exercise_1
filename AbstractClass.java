@@ -11,4 +11,9 @@ public abstract class AbstractClass {
    public int increment(int value) {
       return ++value;
    }
+   
+   public String  hello(){
+      return ""hello!!";
+   
+   }
 }
