@@ -11,9 +11,8 @@ public class AbstractClassInvoker {
       AbstractClass impl = new AbstractClassImpl();
       int value = (int)(Math.random() * 1000);
       	
-      // fdfdfdfd
-      // fddfdfdfdf
+
      
-      System.out.println("Il risultato e': " + impl.increment(value));
+     
    }
 }
